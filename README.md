@@ -62,8 +62,5 @@ Random Forest achieved the highest accuracy and was selected as the final model.
 ## Future Improvements
 - Hyperparameter tuning
 - Model deployment using Streamlit or Flask
-- Real-time loan prediction web application
-
-
-This README looks professional and is suitable for a fresher Data Science/ML GitHub portfolio project.
+- Real-time loan prediction web application.
 
